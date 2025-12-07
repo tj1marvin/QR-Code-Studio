@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-studio",
+  "version": "1.0.0",
+  "description": "A simple QR Code Generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.3.3"
+  }
+}
